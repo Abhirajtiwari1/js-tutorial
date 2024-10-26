@@ -22,4 +22,6 @@ console.log(surname.indexOf('t'));
 //while breaking the string into substrings the last string you are asking for gets ignored. 
 console.log(surname.substring(0,4)); 
 //slicing of the string
-console.log(surname.slice(-5,-3));
+console.log(surname.slice(-5,-3)); 
+//to remove the white spacing: trim
+
